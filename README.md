@@ -1,5 +1,6 @@
 ### Workout-Tracker
-## License
+
+
 
 ## Deployment: 
 Link to working application: https://aqueous-sea-63071.herokuapp.com/
@@ -23,7 +24,9 @@ Rayan Ahmedy
 ## Tests
 Run the following command: npm start
 
-## Contact rayanahmedy1999@gmail.com
+## Contact 
+rayanahmedy1999@gmail.com
 
-## GitHub account: https://github.com/rahmedy
+## GitHub account:
+https://github.com/rahmedy
 
