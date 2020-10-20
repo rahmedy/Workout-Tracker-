@@ -1,6 +1,7 @@
 ### Workout-Tracker
 
-
+![](assets/demoOne.png)
+![](assets/demoTwo.png)
 
 ## Deployment: 
 Link to working application: https://aqueous-sea-63071.herokuapp.com/
